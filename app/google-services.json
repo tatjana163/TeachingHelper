@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79953930584",
+    "firebase_url": "https://teaching-e8350-default-rtdb.firebaseio.com",
+    "project_id": "teaching-e8350",
+    "storage_bucket": "teaching-e8350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79953930584:android:3fffc817e928e7f9a01d2d",
+        "android_client_info": {
+          "package_name": "com.teachinghelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79953930584-v334jil51uttls9g4684832u01v3eu1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2SbX-auKLh1TOeJ-lciUMcpFwNjiuSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79953930584-v334jil51uttls9g4684832u01v3eu1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

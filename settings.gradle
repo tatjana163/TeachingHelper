@@ -1,0 +1,2 @@
+rootProject.name = "Teaching Helper"
+include ':app'
